@@ -1,10 +1,12 @@
-# Brainstorming youhou ! / sensus
+# Maquette de l'application YouHou/Sensus
+
+Maquette imaginée lors du hackathon du 4 juin 2026 organisé par Reconnexion à l'Aubier
 
 ## Besoins
 
-- s'informer et comprendre ensemble
-- donner son avis et que l'auteur en soit informé
-- identifier les auteurs contributifs d'un bien commun partagé
+- S'informer et comprendre ensemble
+- Donner son avis et que l'auteur en soit informé
+- Identifier les auteurs contributifs d'un bien commun partagé
 
 ## Exemples
 
@@ -51,4 +53,8 @@ Algorithme éthique de recherche / suggestion / découverte.
 
 ## Prompt
 
-> Nous voulons créer une application mobile. Elle permet trois activités principales: 1. Créer des contenus sous license CC BY SA qui seront rendus visibles par mon réseau 2. Commenter n'importe quel contenu que l'on lit ou consulte, que ce soit parmi ceux en 1 ou n'importe où sur internet. Ces commentaires peuvent porter sur un document entier ou sur une partie de celui-ci et sont contextuels. 3. Consulter, parcourir et découvrir aussi bien les contenus publiés que les commentaires et discussions.  Je veux pouvoir créer un document vide et l'éditer avec les outils habituels d'édition. Les changements sont versionés et les versions visibles. Je veux pouvoir publier celui-ci. Lorsque je navigue sur internet, je peux écrire un commentaire en sélectionnant du texte, ou au sujet du contenu entier. Une interface permet de consulter aussi bien les contenus publiés plus haut, que les commentaires sur tout contenu, qu'il ait été publié via cette plateforme ou une autre. Je peux à mon tour commenter sur n'importe quel commentaire ou contenu qui m'est présenté. Le contenu qui m'est proposé l'est selon mes contacts, formalisés sous forme de cercles (familiaux, professionnels, géographiques, d'intérêt...).
+Nous voulons créer une application mobile. Elle permet trois activités principales: 1. Créer des contenus sous license CC BY SA qui seront rendus visibles par mon réseau 2. Commenter n'importe quel contenu que l'on lit ou consulte, que ce soit parmi ceux en 1 ou n'importe où sur internet. Ces commentaires peuvent porter sur un document entier ou sur une partie de celui-ci et sont contextuels. 3. Consulter, parcourir et découvrir aussi bien les contenus publiés que les commentaires et discussions.  Je veux pouvoir créer un document vide et l'éditer avec les outils habituels d'édition. Les changements sont versionés et les versions visibles. Je veux pouvoir publier celui-ci. Lorsque je navigue sur internet, je peux écrire un commentaire en sélectionnant du texte, ou au sujet du contenu entier. Une interface permet de consulter aussi bien les contenus publiés plus haut, que les commentaires sur tout contenu, qu'il ait été publié via cette plateforme ou une autre. Je peux à mon tour commenter sur n'importe quel commentaire ou contenu qui m'est présenté. Le contenu qui m'est proposé l'est selon mes contacts, formalisés sous forme de cercles (familiaux, professionnels, géographiques, d'intérêt...).
+
+## Maquette générée
+
+https://reconnexion.github.io/maquettes/youhou-sensus/
