@@ -1,4 +1,4 @@
-# Maquette de l'application "Echanges solidaires"
+# Maquette de l'application "Social Hub"
 
 Maquette imaginée lors du hackathon du 4 juin 2026 organisé par Reconnexion à l'Aubier
 
