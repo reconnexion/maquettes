@@ -2,6 +2,15 @@
 
 Maquette imaginée lors du hackathon du 4 juin 2026 organisé par Reconnexion à l'Aubier
 
+## Membres de l'équipe
+
+- Lorenzo: facilitateur
+- Bertrand: secrétaire
+- Lionel
+- Pascal
+- Sabrina
+- Julien
+
 ## Besoins
 
 - S'informer et comprendre ensemble

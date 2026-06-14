@@ -4,11 +4,11 @@ Maquette imaginée lors du hackathon du 4 juin 2026 organisé par Reconnexion à
 
 ## Membres de l'équipe
 
-Jean-Pierre: facilitateur, membre d'un SEL local
-Cedric: secrétaire
-Sylvie: une membre de l'écolieu l'Aubier
-Dominique: Reconnexion
-Jean-Marie: membre d'un SEL local
+- Jean-Pierre: facilitateur, membre d'un SEL local
+- Cedric: secrétaire
+- Sylvie: une membre de l'écolieu l'Aubier
+- Dominique: Reconnexion
+- Jean-Marie: membre d'un SEL local
 
 ## Notes en vrac
 
